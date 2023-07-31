@@ -1,4 +1,4 @@
-#Data Minig
+# Data Minig
 Data Mining exam project<br>
 In the repository there are 2 folders:<br>
 -DM foundations, the first part of the project, contains the pdf report and python notebooks<br>
